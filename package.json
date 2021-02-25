@@ -1,0 +1,21 @@
+{
+    "name": "dark-plus-python",
+    "displayName": "dark-plus-python",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark+ Python",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark+ Python-color-theme.json"
+            }
+        ]
+    }
+}

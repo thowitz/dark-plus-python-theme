@@ -1,0 +1,10 @@
+"bracket-pair-colorizer-2.colors": [
+    "colorizer.color-1",
+    "colorizer.color-2",
+    "colorizer.color-3"
+],
+"workbench.colorCustomizations": {
+    "colorizer.color-1": "#FFD700",
+    "colorizer.color-2": "#DA70D6",
+    "colorizer.color-3": "#D4D4D4"
+}
