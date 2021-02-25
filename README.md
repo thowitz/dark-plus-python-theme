@@ -10,4 +10,6 @@
 
 * To change your theme press Ctrl K and then Ctrl T
 
+* [Github repo](https://github.com/thowitz/dark-plus-python-theme)
+
 **Enjoy!**
