@@ -11,5 +11,12 @@
 * To change your theme press Ctrl K and then Ctrl T
 
 * [Github repo](https://github.com/thowitz/dark-plus-python-theme)
+## Screenshots (with bracket colorizer extension)
+### Dark+ Default Theme:
+
+![dark+ default](./screenshots/dark-plus-default-theme.png)
+### Dark+ Python Theme:
+
+![dark+ python](./screenshots/dark-plus-python-theme.png)
 
 **Enjoy!**
