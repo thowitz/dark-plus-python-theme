@@ -3,10 +3,10 @@
     "displayName": "Dark+ Python",
     "description": "VsCode Dark+ theme with the same colours for python as javascript and a few extras for readability",
     "publisher": "thowitz",
-    "author":{
+    "author": {
         "name": "Tim Howitz"
     },
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.53.0"
     },
