@@ -1,20 +1,34 @@
 {
     "name": "dark-plus-python",
-    "displayName": "dark-plus-python",
-    "description": "",
+    "displayName": "Dark+ Python",
+    "description": "VsCode Dark+ theme with the same colours for python as javascript and a few extras for readability",
+    "publisher": "thowitz",
+    "author":{
+        "name": "Tim Howitz"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thowitz/dark-plus-python-theme"
+    },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "Dark Theme",
+        "Dark+",
+        "Dark Plus",
+        "Python"
     ],
     "contributes": {
         "themes": [
             {
                 "label": "Dark+ Python",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dark+ Python-color-theme.json"
+                "path": "./themes/dark-plus-python-theme.json"
             }
         ]
     }
